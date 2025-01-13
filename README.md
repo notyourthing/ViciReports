@@ -1,3 +1,6 @@
+# Vicidial (asterisk) Database - Searchable database, its tables and fields thats used for ViciDIal
+
+
 # Reports
 Custom Reports for Vicidial
 
